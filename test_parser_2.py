@@ -5,7 +5,7 @@ import collections
 from collections import defaultdict
 
 """
-"07/04/2016": {
+"YYYY/MM/DD": {
       "sleeptimes": "",
       "comments": "",
       "glucose": [
