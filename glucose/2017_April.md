@@ -1,3 +1,7 @@
+#### April 10 - April 16
+
+<details>
+
 ##### 2017, April, 10
 
 |Time | Glucose | Units | Comment|
@@ -53,10 +57,6 @@
 | 22:00 |      |  55 TJ |  per dienstdoende mdl arts |
 
 
----------------------------------=======================---------------------
-
-(x86)\LifeScan\OneTouch\Export\Export_4182017_pre.csv
-
 ##### 2017, April, 14  --- Fri
 
 |Time | Glucose | Units | Comment|
@@ -90,6 +90,7 @@
 | 22:00 | 27.3  |  7  NR   | net na sinas appelsap       |
 | 22:00 |       |  55 TJ   |                             |
 
+</details>
 
 ---------------
 
