@@ -1,6 +1,6 @@
-## 2017 April
+## 2017 weeks
 
-#### April 3 - April 9
+#### week 14 | April 3 - April 9
 
 <details>
 
@@ -87,7 +87,7 @@
 
 ---------------
 
-#### April 10 - April 16
+#### week 15 | April 10 - April 16
 
 <details>
 
@@ -183,7 +183,7 @@
 
 ---------------
 
-#### April 17 - April 24
+#### week 16 | April 17 - April 23
 
 <details>
 
@@ -231,6 +231,7 @@
 | 21:30 | 15.0  | 55 TJ |        |
 
 ##### 2017, April 21 --- Friday
+
 |Time | Glucose | Units | Comment|
 |-------|------|--------|------------------|
 | 03:00 |      |        | hoest drank      |
@@ -242,6 +243,7 @@
 | 22:00 |      | 55 TJ  |                  |
 
 ##### 2017, April 22 --- Saterday
+
 |Time | Glucose | Units | Comment|
 |-------|------|--------|------------------|
 | 07:00 |      |        | good sleep       | 
@@ -253,6 +255,7 @@
 | 22:00 |      | 55 TJ  |                  |
 
 ##### 2017, April 23 --- Sunday
+
 |Time | Glucose | Units | Comment|
 |-------|------|--------|------------------|
 | 08:05 | 10.5 | 15 NR  |                  |
