@@ -1,8 +1,97 @@
+## 2017 April
+
+#### April 3 - April 9
+
+<details>
+
+##### 2017, April 3 --- Monday
+
+|Time | Glucose | Units | Comment|
+|-------|------|-------|---------------|
+|       |      |       | uneasy sleep  |
+| 08:00 | 15.3 | 12 NR |               | 
+| 11:00 |      |       |  soup         |
+| 13:00 | 23.4 | 14 NR |               |
+| 16:24 | 21   | 20 NR |               | 
+| 21:00 |      |       | Salade, Rode Biet |
+| 22:00 | 18   | 50 TJ |                   |
+
+##### 2017, April 4 --- Tuesday
+
+|Time | Glucose | Units | Comment|
+|-------|-------|-------|---------------------|
+|       |       |       | good sleep          |
+| 08:15 | 9.7   | 10 NR |                     |
+| 13:00 | 19.2  | 12 NR |                     |
+| 1600  |       |       | bag of crisps/snack |
+| 19:47 | 16.2  | 20 NR |                     |
+| 22:00 |       | 50 TJ |                     |
+
+##### 2017, April 5 --- Wednesday
+
+|Time | Glucose | Units | Comment|
+|-------|------|-------|---------|
+| 08:15 | 11.5 | 12 NR |         |
+| 13:00 | 18.2 | 14 NR |         |
+| 16:00 |      |       | orange big  |
+| 18:00 | 22.1 | 20 NR |             |
+| 22:00 |      | 50 TJ | snack .. i don't know what |
+
+##### 2017, April 6 --- Thursday
+
+|Time | Glucose | Units | Comment|
+|-----|--------|--------|-------------------------------------|
+| 08:15 | 15.3 |  12 NR |                                     |
+| 10:00 |      |        |  half big orange                    |
+| 13:00 | 21   |  14 NR |                                     |
+| 15:00 |      |        | granaat appel drink + casave crisps |
+| 18:00 | 27.1 |  20 NR |                                     |
+| 19:00 |      |        | juice                               |
+| 22:00 | 22   |  50 TJ |                                     |
+
+##### 2017, April 7 --- Friday
+
+|Time | Glucose | Units | Comment|
+|-----|---------|-------|--------|
+| 8:30  | 11.5  | 12 NR |        | 
+| 12:00 | 17.5  |  4 NR |        |
+| 13:00 | ?     | 12 NR |        |
+| 16:00 | 23.7  |  6 NR |               |
+| 16:40 | 20 eh |       | early dinner  |
+| 22:00 |       | 50 TJ |               | 
+
+##### 2017, April 8 --- Saterday
+
+|Time | Glucose | Units | Comment|
+|-----|---------|-------|--------|
+| 05:00 |       |       | 's nacht chocolade. (honger) |
+| 08:00 | 17.0  | 14 NR |        | 
+| 13:00 | 21.0  | 14 NR |        | 
+| 15:30 | 21.0  |  6 NR |        |
+| 18:00 | 21.0  | 22 NR |        |
+| 22:00 | ?     | 54 TJ |        |
+
+##### 2017, April 9 --- Sunday
+
+|Time | Glucose | Units | Comment|
+|-----|---------|-------|--------|
+| 08:30 |  12.9 | 14 EH |        |
+| 13:00 |  24.0 | 14 eh |        |
+| 17:20 |  22.0 | 22 EH |        |
+| 22:00 |  20.4 | 50 EH |        |
+
+</details>
+
+
+
+
+---------------
+
 #### April 10 - April 16
 
 <details>
 
-##### 2017, April, 10
+##### 2017, April 10 --- Monday
 
 |Time | Glucose | Units | Comment|
 |-----|---------|-------|--------|
@@ -16,7 +105,7 @@
 | 22:00 |       | 50 TJ |                |
 
 
-##### 2017, April, 11
+##### 2017, April 11 --- Tuesday
 
 |Time | Glucose | Units | Comment|
 |-----|---------|-------|--------|
@@ -30,7 +119,7 @@
 | 19:50 | 20.1    |  6 NR |        |
 | 22:10 | 16.4    | 50 TJ |        |
 
-##### 2017, April, 12
+##### 2017, April 12 --- Wednesday
 
 |Time | Glucose | Units | Comment|
 |-----|---------|-------|--------|
@@ -44,7 +133,7 @@
 | 22:00 | 15.1 |  4 NR |            |
 | 22:00 |      | 50 TJ |            |
 
-##### 2017, April, 13
+##### 2017, April 13 --- Thursday
 
 |Time | Glucose | Units | Comment|
 |-----|---------|-------|--------|
@@ -57,7 +146,7 @@
 | 22:00 |      |  55 TJ |  per dienstdoende mdl arts |
 
 
-##### 2017, April, 14  --- Fri
+##### 2017, April 14  --- Friday
 
 |Time | Glucose | Units | Comment|
 |-----|---------|-------|--------|
@@ -68,7 +157,7 @@
 | 22:00 | 23    |  6 NR |             |
 | 22:00 |       | 55 TJ |             |
 
-##### 2017, April, 15 --- Sat
+##### 2017, April 15 --- Saterday
 
 |Time | Glucose | Units | Comment|
 |-----|---------|-------|--------|
@@ -77,7 +166,7 @@
 | 18:00 | 22.2  | 24 NR |        |
 | 22:00 |       | 55 TJ |        |
 
-##### 2017, April, 16 --- Sun
+##### 2017, April 16 --- Sunday
 
 |Time | Glucose | Units | Comment|
 |-----|---------|-------|--------|
