@@ -93,6 +93,10 @@
 
 ---------------
 
+#### April 17 - April 24
+
+<details>
+
 ##### 2017, April 17 --- Monday
 
 |Time | Glucose | Units | Comment|
@@ -166,6 +170,8 @@
 | 18:20 | 21   | 26 NR  |                  |
 | 22:00 | 20   |  4 NR  |                  |
 | 22:00 |      | 55 TJ  |                  |
+
+</details>
 
 ----------
 
