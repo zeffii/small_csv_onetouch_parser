@@ -270,35 +270,53 @@
 
 #### week 17 | April 24 - April 30
 
+<details>
 
 ##### 2017, April 24 --- Monday
 
 |Time | Glucose | Units | Comment|
 |-------|------|--------|------------------|
-
+| 08:00 | 8.5  |  14 NR |            |
+| 12:45 | 19.0 |  18 NR |            |  
+| 18:00 | 16.4 |  25 NR | diner      |
+| 21:00 |      |        | snack      |
+| 22:00 | 15.9 |  56 TJ | niet bij gespoten  |
 
 ##### 2017, April 25 --- Tuesday
 
 |Time | Glucose | Units | Comment|
 |-------|------|--------|------------------|
-
+| 08:30 | 12.3 |  16 NR | wakker sinds 06:30 |
+| 12:45 | 17   |  18 NR |                    |
+| 17:45 | 16.2 |  26 NR | diner              |
+| 19:45 | 16.4 |        |                    |
+| 22:00 |      |  58 TJ | niet bij gespoten  |
 
 ##### 2017, April 26 --- Wednesday
 
 |Time | Glucose | Units | Comment|
 |-------|------|--------|------------------|
-
+| 08:10 | 10.7 |  16 NR |   |
+| 13:00 | 16.1 |  18 NR |   |
+| 19:10 | 19   |  27 NR | laat diner        |
+| 23:00 | --   |  58 TJ | niet bij gespoten |
 
 ##### 2017, April 27 --- Thursday
 
 |Time | Glucose | Units | Comment|
 |-------|------|--------|------------------|
+| 08:20 | 10.9 | 16 NR  | gebroken nachtrust |
+| 13:00 | 19.  | 19 NR  |                    |
+| 17:15 | 20.  | 14 NR  | na sinasappel      |
+| 21:00 |      | 10 NR  | laat diner         |
+| 22:00 |      | 58 TJ  | niet bij gespoten  |
 
 ##### 2017, April 28 --- Friday
 
 |Time | Glucose | Units | Comment|
 |-------|------|--------|------------------|
-
+| 08:00 | 13.1 | 18 NR  |                  | 
+ 
 ##### 2017, April 29 --- Saterday
 
 |Time | Glucose | Units | Comment|
@@ -310,5 +328,6 @@
 |-------|------|--------|------------------|
 
 
+</details>
 
 
