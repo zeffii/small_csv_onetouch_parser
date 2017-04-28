@@ -268,3 +268,47 @@
 
 ---------------
 
+#### week 17 | April 24 - April 30
+
+
+##### 2017, April 24 --- Monday
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|------------------|
+
+
+##### 2017, April 25 --- Tuesday
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|------------------|
+
+
+##### 2017, April 26 --- Wednesday
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|------------------|
+
+
+##### 2017, April 27 --- Thursday
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|------------------|
+
+##### 2017, April 28 --- Friday
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|------------------|
+
+##### 2017, April 29 --- Saterday
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|------------------|
+
+##### 2017, April 30 --- Sunday
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|------------------|
+
+
+
+
