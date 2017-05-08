@@ -352,4 +352,51 @@
 |Time | Glucose | Units | Comment|
 |-------|------|--------|------------------|
 | 08:15 | 8.8  | 18 NR  |                  |
+| 13:30 |      | 20 NR  |                  |
+| 18:00 |      | 29 NR  |                  |
+| 22:20 | 22   | 62 TJ  |                  | 
+| 22:20 |      | 6  NR  | wel bijgespoten  | 
 
+##### 2017, May 2 --- Tuesday
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|------------------|
+|       |      |        | neuropathic pain |
+| 08:15 | 11.3 | 18 NR  |                  |
+|       |      |        | rubbed nose, caused nose bleed |
+| 12:40 | 21.2 | 20 NR  |                  |
+| 18:20 |      | 29 NR  |                  |
+| 22:30 | 21   | 62 TJ  |                  |
+|       |      | 6/ NR  | wel bijgespoten  | 
+
+##### 2017, May 3 --- Wednesday
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|------------------|
+|
+
+##### 2017, May 4 --- ..day
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|------------------|
+|
+
+##### 2017, May 5 --- ..day
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|------------------|
+|
+
+##### 2017, May 6 --- ..day
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|------------------|
+|
+
+##### 2017, May 7 --- ..day
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|------------------|
+|
+
+</details>
