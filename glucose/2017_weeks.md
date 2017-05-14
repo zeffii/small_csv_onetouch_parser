@@ -415,3 +415,46 @@
 | 22:20 | 21.4 |  62 TJ | 6 NR bij         | 
 
 </details>
+
+---------------
+
+#### week 19 | May 8 - may 14
+
+<details>
+
+##### 2017, May 8 --- Monday
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|------------------|
+| 08:10 | 13.5 |  21 NR |                  |
+| 13:40 | 22.1 |  22 NR |                  |
+| 18:20 | 28   |  31 NR | net iets gegeten |
+| 22:30 | 25.3 |   8 NR | late snack voor meting | 
+|       |      |  62 TJ |                        |
+
+##### 2017, May 9 --- Tuesday
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|------------------|
+| 08:20 | 16.9 | 22 NR  | all een tijdje wakker |
+| 13:00 | 22.2 | 24 NR  |                       |
+| 18:00 |      | 29 NR  | niet geslapen sinds 13:00 |
+| 23:30 | 21   |  6 NR  | 62 TJ                     |
+
+##### 2017, May 10 --- Wednesday
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|------------------|
+| 08:30 | 15.4 | 22 NR  | rechter b.been   |
+| 13:50 | 26.2 | 24 NR  | buik (zuid)      |
+| 18:10 | 25.5 | 31 NR  |                  |
+| 22:10 | 19.7 |  4 NR  | 62 TJ            |
+
+##### 2017, May 11 --- Thursday
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|------------------|
+| 08:10 | 11.8 | 20 NR  |                  |
+
+
+</details>
