@@ -487,6 +487,57 @@
 | 08:10 | 15.2 | 24 NR  |                               |
 | 12:00 | 23.5 | 25 NR  |                               |  
 | 13:00 |      |        | feest                         |
+| 18:00 | 33   | 32 NR  |                               |  
+| 22:20 | 22   |  8 NR  | 62 TJ                         |
+
+</details>
+
+---------------
+
+#### week 20 | May 15 - may 21
+
+<details>
+
+##### 2017, May 15 --- Monday
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|---------------------------------|
+| 08:10 | 11.7 | 20 NR  |                                 |
+| 12:15 | 20.8 | 22 NR  | naar  AMC voor HB en kruisbloed |
+| 18:00 | 25   | 32 NR  | terug AMC                       |
+| 22:00 | 23   | 10 NR  | 62 TJ                           | 
+
+##### 2017, May 16 --- Tuesday
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|-------------------------------|
+| 08:10 | 11.9 | 22 NR  |                               |
+| 12:00 | 21   | 24 NR  | naar AMC voor transfusie      |
+| 18:00 | 17   | 34 NR  | in AMC  , 2 zakken bloed      |
+| 23:00 | 23   | 10 NR  | 62 TJ                         | 
+
+##### 2017, May 17 --- Wednesday
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|-------------------------------|
+|       |      |        | AMC gastroscopy |
+| 18:00 | 25   | 34 NR  |          |
+| 22:00 | 25   | 10 NR  | 62 TJ    | 
+
+##### 2017, May 18 --- Thursday
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|-------------------------------|
+| 08:15 | 10.1 | 22 NR  |                    |
+| 13.07 | 19.9 | 24 NR  |                    |
+| 18:50 | 25.5 | 34 NR  | slaperig na roesje |
+| 22:10 |      | 10 NR  | 62 TJ              |
+
+##### 2017, May 19 --- Friday
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|-------------------------------|
+| 08:20 | 12.2 | 22 NR  |                               |
 
 
 </details>
