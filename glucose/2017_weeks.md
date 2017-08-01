@@ -1254,22 +1254,87 @@
 |Time | Glucose | Units | Comment|
 |-------|------|--------|---------------------------------|
 | 08:12 |  7.8 | 30 NR  |           |
-| 13:05 | 10.8 | 34 NR  |           |
-| 18:00 |      |    NR  |           |
-| 22:00 |      |    TJ  |  NR       |
+| 13:05 | 10.8 | 34 NR  | diaree    |
+| 18:00 |  8.3 | 34 NR  | diaree    |
+| 22:00 |  6.6 | 60 TJ  |           |
 
 ##### 2017, July 28 --- Fri
 
 |Time | Glucose | Units | Comment|
 |-------|------|--------|---------------------------------|
+| 08:00 |  9.0 |        | diaree, all night - no insuline given    |
+|       |      |        | vommit , food undigested from lastnight  |
+| 13:30 | 13.3 |        | Doctor Home visit, advised ORS           |
+| 15:00 |      |  15 NR | temp:37.6                                |
+| 19:00 | 12.3 |  44 NR | no real appetite  ORS + Crackers + beleg |
+| 22:00 |  6.9 |  60 TJ |                                          | 
+
 
 ##### 2017, July 29 --- Sat
 
 |Time | Glucose | Units | Comment|
 |-------|------|--------|---------------------------------|
-
+| 07:30 | 6.3  |  30 NR |  good sleep, hungry  temp:36.6  |
+| 13:00 | 7.7  |  28 NR |  ORS + crackers + beleg |
+| 18:00 | 8.5  |  35 NR |                     |
+| 22:00 | 5.9  |  55 TJ |  honger, sandwich   |
 
 ##### 2017, July 30 --- Sun
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|---------------------------------|
+| 06:00 |  8.8 |        | check sugar early               |
+| 08:00 |      |  30 NR | honger                          |
+| 13:00 |  9.7 |  34 NR |              |
+| 18:20 | 11.7 |  44 NR |              |
+| 22:00 |  7.7 |  60 TJ | niet nuchter | 
+
+</details>
+
+---------------
+
+#### week 31 | July 31 - Aug 6
+
+<details>
+
+##### 2017, July 31 --- Mon
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|---------------------------------|
+|  7:10 | 7.7  |        |                                 |
+| 08:00 |      | 30 NR  |                                 | 
+| 13:00 | 10.8 | 34 NR  |        |
+| 18:00 |  8.9 | 33 NR  |        |
+| 22:00 |  7.3 | 60 TJ  |        |
+
+##### 2017, Aug 1 --- Tue
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|---------------------------------|
+| 08:10 |  7.5 |  30 NR |       |
+| 13:00 | 10.3 |  34 NR |       |
+
+##### 2017, Aug 2 --- Wed
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|---------------------------------|
+
+##### 2017, Aug 3 --- Thu
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|---------------------------------|
+
+##### 2017, Aug 4 --- Fri
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|---------------------------------|
+
+##### 2017, Aug 5 --- Sat
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|---------------------------------|
+
+##### 2017, Aug 6 --- Sun
 
 |Time | Glucose | Units | Comment|
 |-------|------|--------|---------------------------------|
