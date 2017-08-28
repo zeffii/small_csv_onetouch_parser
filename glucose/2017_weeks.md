@@ -1262,8 +1262,9 @@
 
 |Time | Glucose | Units | Comment|
 |-------|------|--------|---------------------------------|
-| 08:00 |  9.0 |        | diaree, all night - no insuline given    |
-|       |      |        | vommit , food undigested from lastnight  |
+| 08:00 |  9.0 |        | diaree, all night - no appetite,         | 
+|       |      |        | no insuline given yet                    |
+|       |      |        | + vommit, food undigested from lastnight |
 | 13:30 | 13.3 |        | Doctor Home visit, advised ORS           |
 | 15:00 |      |  15 NR | temp:37.6                                |
 | 19:00 | 12.3 |  44 NR | no real appetite  ORS + Crackers + beleg |
