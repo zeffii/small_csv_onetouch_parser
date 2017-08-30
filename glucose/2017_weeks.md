@@ -1371,7 +1371,6 @@
 
 #### week 32 | Aug 07 - Aug 13
 
-This week is missing my annotations for NR at night. ( it's written on a calender ) .
 
 <details>
 
@@ -1384,7 +1383,7 @@ This week is missing my annotations for NR at night. ( it's written on a calende
 | 08:04 |  8.1 | 30 NR  |                                 |
 | 12:18 | 12.8 | 34 NR  |                                 |
 | 18:00 |      | 44 NR  |                                 | 
-| 22:01 |  9.9 | 62 TJ  |  ---?                           |
+| 22:01 |  9.9 | 62 TJ  |  no NR                          |
 
 
 ##### 2017, Aug 08 --- Tue
@@ -1394,7 +1393,7 @@ This week is missing my annotations for NR at night. ( it's written on a calende
 | 07:57 |  7.3 | 30 NR  |                                 |
 | 11:31 | 11.5 | 34 NR  |                                 |
 | 16:47 | 10.6 | 44 NR  |                                 |
-| 21:06 | 11.1 | 62 TJ  | ---?                            |
+| 21:06 | 11.1 | 62 TJ  | 8 NR                            |
 
 
 ##### 2017, Aug 09 --- Wed
@@ -1403,8 +1402,8 @@ This week is missing my annotations for NR at night. ( it's written on a calende
 |-------|------|--------|---------------------------------|
 | 08:18 |  8.7 | 30 NR  |                                 |
 | 12:08 | 11.5 | 34 NR  |                                 |
-| 17:25 | 10.0 | 44 NR  |                                 |
-| 21:40 | 11.0 | 62 TJ  |  ----?                          |
+| 17:25 | 11.0 | 44 NR  |                                 |
+| 21:40 | 10.0 | 62 TJ  |  3 NR                           |
 
 
 ##### 2017, Aug 10 --- Thu
@@ -1414,7 +1413,7 @@ This week is missing my annotations for NR at night. ( it's written on a calende
 | 08:02 |  8.7 | 30 NR  |                                 |
 | 13:02 | 13.7 | 34 NR  |                                 |
 | 18:59 | 13.4 | 44 NR  |                                 |
-| 22:08 | 14.4 | 62 TJ  |  ----?                          |
+| 22:08 | 14.4 | 62 TJ  |  16 NR                          |
 
 
 ##### 2017, Aug 11 --- Fri
@@ -1424,7 +1423,7 @@ This week is missing my annotations for NR at night. ( it's written on a calende
 | 08:13 |  7.3 | 30 NR  |                                 |
 | 12:00 |      | 34 NR  |                                 |
 | 18:00 |      | 44 NR  |                                 |
-| 21:53 | 22.1 | 62 TJ  |  ----- ?                        |
+| 21:53 | 22.1 | 62 TJ  |  18 NR                          |
 
 
 ##### 2017, Aug 12 --- Sat
@@ -1434,18 +1433,18 @@ This week is missing my annotations for NR at night. ( it's written on a calende
 | 07:05 |  8.2 | 30 NR  |                                 |
 | 11:32 | 11.8 | 34 NR  |                                 |
 | 16:51 | 16.4 | 44 NR  |                                 |
-| 21:16 |  8.6 | 62 TJ  |  no NR                          |
+| 21:16 |  8.6 | 62 TJ  | 8 NR, because food after TJ     |
 
 
 ##### 2017, Aug 13 --- Sun
 
 |Time | Glucose | Units | Comment|
 |-------|------|--------|---------------------------------|
-| 07:02 | 13.7 |        |                                 |  
+| 07:02 | 13.7 |  8 NR  |                                 |  
 | 07:57 | 13.8 | 30 NR  |                                 |
 | 12:44 | 14.3 | 34 NR  |                                 |
 | 18:00 |      | 44 NR  |                                 |
-| 21:43 | 20.6 | 62 TJ  |  ------ ?                       |
+| 21:43 | 20.6 | 62 TJ  |  18 NR, watermelon earlier      |
 
 
 </details>
