@@ -20,7 +20,7 @@ template_body = """\
 |-------|------|--------|---------------------------------|"""
 
 template_day_graph_lines = """\
-|       |      |        |                                 |"""
+|   :   |   .  |        |                                 |"""
 
 template_tail = """\
 
@@ -60,4 +60,4 @@ def compose_chart(week_nr, year, num_chart_entries=5):
 
 
 
-compose_chart(week_nr=34, year=2017, num_chart_entries=5)
+compose_chart(week_nr=35, year=2017, num_chart_entries=5)
