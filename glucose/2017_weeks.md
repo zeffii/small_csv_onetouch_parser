@@ -1466,7 +1466,7 @@ annotations concerning NR at night were done on the whiteboard and photographed,
 | 08:00 |      |  30 NR |                                 |
 | 12:18 | 13.0 |  34 NR |                                 |
 | 18:00 |      |  44 NR |                                 |
-| 22:07 | 13.7 |  62 TJ |  ----?                          |
+| 22:07 | 13.7 |  62 TJ |  16 NR                          |
 
 
 ##### 2017, Aug 15 --- Tue
@@ -1476,7 +1476,7 @@ annotations concerning NR at night were done on the whiteboard and photographed,
 | 08:03 |  9.0 |  30 NR |                                 |
 | 11:48 | 13.5 |  34 NR |                                 |
 | 18:03 | 16.7 |  44 NR |                                 |
-| 21:33 | 13.5 |  62 TJ |  ----?                          |
+| 21:33 | 13.5 |  62 TJ |  16 NR                          |
 
 
 ##### 2017, Aug 16 --- Wed
@@ -1486,7 +1486,7 @@ annotations concerning NR at night were done on the whiteboard and photographed,
 | 07:50 |  8.2 |  30 NR |                                 |
 | 12:33 | 13.2 |  34 NR |                                 |
 | 18:39 | 18.0 |  44 NR |                                 |
-| 21:52 | 12.7 |  62 TJ |   ----?                         |
+| 21:52 | 12.7 |  62 TJ |   16 NR                         |
 
 
 ##### 2017, Aug 17 --- Thu
@@ -1496,7 +1496,7 @@ annotations concerning NR at night were done on the whiteboard and photographed,
 | 07:42 |  7.9 |  30 NR |                                 |
 | 12:30 |      |  34 NR |                                 |  
 | 18:39 | 11.9 |  44 NR |                                 |
-| 22:03 | 13.0 |  62 TJ |    ----?                        |
+| 22:03 | 13.0 |  62 TJ |    16 NR                        |
 
 
 ##### 2017, Aug 18 --- Fri
@@ -1505,8 +1505,8 @@ annotations concerning NR at night were done on the whiteboard and photographed,
 |-------|------|--------|---------------------------------|
 | 08:14 | 11.0 |  30 NR |                                 |
 | 12:45 | 13.6 |  34 NR |                                 |
-| 18:00 |      |  44 NR |                                 |
-| 21:30 | 16.4 |  62 TJ |     ----?                       |
+| 18:00 |      |  44 NR |  net iets gegeten               |
+| 21:30 | 16.4 |  62 TJ |  net iets gegeten 18 NR         |
 
 
 ##### 2017, Aug 19 --- Sat
@@ -1516,7 +1516,7 @@ annotations concerning NR at night were done on the whiteboard and photographed,
 | 07:04 |  7.4 |  30 NR |                                 |
 | 11:53 | 10.8 |  34 NR |                                 |
 | 18:00 |      |  44 NR |                                 |  
-| 21:40 | 18.3 |  62 TJ |    ----?                        |
+| 21:40 | 18.3 |  62 TJ |  net iets gegeten 20 NR         |
 
 
 ##### 2017, Aug 20 --- Sun
@@ -1526,7 +1526,7 @@ annotations concerning NR at night were done on the whiteboard and photographed,
 | 08:15 | 9.4  |  30 NR |                                 |
 | 12:49 | 14.9 |  34 NR |                                 |
 | 19:22 | 16.4 |  44 NR |                                 |
-| 21:46 | 10.4 |  62 TJ |     ----?                       |
+| 21:46 | 10.4 |  62 TJ |  10 NR iets gegeten na TJ       |
 
 
 </details>
