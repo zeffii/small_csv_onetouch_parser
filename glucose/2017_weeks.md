@@ -1598,7 +1598,6 @@ annotations concerning NR at night were done on the whiteboard and photographed,
 | 12:30 | 10.3 | 34 NR  |                                 |
 | 18:00 | 13.2 | 44 NR  |                                 |
 | 22:00 | 11.3 | 62 NR  | 9 NR, net iets gegeten          |
-|       |      |        |                                 |
 
 
 ##### 2017, Aug 27 --- Sun
