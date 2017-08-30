@@ -1453,8 +1453,6 @@
 
 #### week 33 | Aug 14 - Aug 20
 
-annotations concerning NR at night were done on the whiteboard and photographed, not transcribed yet.
-
 <details>
 
 
