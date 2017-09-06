@@ -1689,6 +1689,7 @@
 | 18:00 | 14.0 | 44 NR  |  had crackers shortly before..  |
 | 22:00 | 12.9 | 64 TJ  |  10 NR                          |
 
+</details>
 
 --------
 
