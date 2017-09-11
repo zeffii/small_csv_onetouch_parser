@@ -60,4 +60,4 @@ def compose_chart(week_nr, year, num_chart_entries=5):
 
 
 
-compose_chart(week_nr=36, year=2017, num_chart_entries=5)
+compose_chart(week_nr=37, year=2017, num_chart_entries=5)
