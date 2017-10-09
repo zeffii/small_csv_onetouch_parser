@@ -1982,41 +1982,117 @@
 |-------|------|--------|---------------------------------|
 | 08:19 |  8.5 | 36 NR  |                                 |
 | 12:42 | 10.3 | 38 NR  |                                 |
-| : | . |        |                                 |
-| : | . |        |                                 |
-| : | . |        |                                 |
+| 18:00 |   .  | 44 NR  |                                 |
+| 22:27 | 12.8 | 68 TJ  |                                 |
 
 
 ##### 2017, Sep 29 --- Fri
 
 |Time | Glucose | Units | Comment|
 |-------|------|--------|---------------------------------|
-| : | . |        |                                 |
-| : | . |        |                                 |
-| : | . |        |                                 |
-| : | . |        |                                 |
-| : | . |        |                                 |
+| 06:12 |  9.0 |        | veel gehoest                    |
+| 08:00 |   .  | 36 NR  |                                 |
+| 13:00 |   .  | 38 NR  |                                 |
+| 18:30 | 18.9 | 44 NR  | net iets gegeten                |
+| 22:23 | 12.6 | 68 TJ  |       ??                        |
 
 
 ##### 2017, Sep 30 --- Sat
 
 |Time | Glucose | Units | Comment|
 |-------|------|--------|---------------------------------|
-| : | . |        |                                 |
-| : | . |        |                                 |
-| : | . |        |                                 |
-| : | . |        |                                 |
-| : | . |        |                                 |
+| 07:55 |  7.9 | 36 NR  |    big breakfast                |
+| 13:24 | 14.5 | 38 NR  |                                 |
+| 18:44 | 10.9 | 44 NR  |                                 |
+| 21:47 | 11.1 | 68 TJ  |     ??                          |
+
 
 
 ##### 2017, Oct 01 --- Sun
 
 |Time | Glucose | Units | Comment|
 |-------|------|--------|---------------------------------|
-| : | . |        |                                 |
-| : | . |        |                                 |
-| : | . |        |                                 |
-| : | . |        |                                 |
-| : | . |        |                                 |
+| 08:10 |  7.7 | 36 NR  |                                 |
+| 12:01 | 11.8 | 38 NR  |                                 |
+| 18:00 |   .  | 44 NR  |                                 |
+| 21:58 | 17.8 | 68 TJ  |     ??                          |
+
+
+</details>
+
+--------
+
+#### week 40 | Oct 02 - Oct 08
+
+<details>
+
+
+
+##### 2017, Oct 02 --- Mon
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|---------------------------------|
+| 08:00 |  9.8 |  36 NR |                                 |
+| 11:30 | 10.9 |  38 NR |                                 |
+| 17:30 | 13.6 |  44 NR |                                 |
+| 20:30 | 18.1 |  68 TJ | 12 NR  Net iets gegeten, vroeg slapen |
+
+
+##### 2017, Oct 03 --- Tue
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|---------------------------------|
+| 08:10 |  8.4 |  36 NR |                                 |
+| 12:00 |   .  |  38 NR |                                 |
+| 17:00 |   .  |  44 NR |                                 |
+| 22:30 | 19.2 |  68 TJ | 18 NR, net chips gegeten. oma op bezoek uit ierland |
+
+
+##### 2017, Oct 04 --- Wed
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|---------------------------------|
+| 08:30 |  6.3 |  36 NR |                                 |
+| 11:45 | 12.6 |  38 NR |                                 |
+| 18:00 |   .  |  44 NR |                                 |
+| 22:00 | 10.6 |  68 TJ | 5 NR, honger en snack voor het slapen |
+
+
+##### 2017, Oct 05 --- Thu
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|---------------------------------|
+| 08:10 | 13.3 | 36 NR  |  1 uur eerder bloedneus, moeilijk bloed prikken, veel gehoest |
+| 11:45 | 10.6 | 38 NR  |                                 |
+| 18:00 |   .  | 44 NR  | Sushi                           |
+| 22:00 | 12.4 | 68 TJ  | 10 NR                           |
+
+
+##### 2017, Oct 06 --- Fri
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|---------------------------------|
+| : | . |      |   AMC    9 uur Bloedtransfusie HB lager dan 4   |
+| : | . |      |   overnachting door complicaties met blood-matching  |
+
+
+##### 2017, Oct 07 --- Sat
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|---------------------------------|
+| 16:00 | 5.8   |       |  zuster neemt suikerprik, niet gegeten sinds 13:00 |
+| 17:00 | .     |       |  ontslag uit AMC, 2 zakken bloed gekregen     |
+| 19:00 | 13.3  | 44 NR  |  Net iets gegeten      |
+| 22:30 |  7.3  | 68 TJ  |  geen NR               |
+
+
+##### 2017, Oct 08 --- Sun
+
+|Time | Glucose | Units | Comment|
+|-------|------|--------|---------------------------------|
+| 08:20 |  7.3 | 36 NR  |                                 |
+| 12:00 |   .  | 38 NR  |                                 |
+| 18:15 | 12.3 | 44 NR  | Net iets gegeten                |
+| 22:00 | 14.3 | 68 TJ  | 12 NR net iets gegeten, volgende ochtend 8.3  |
 
 </details>

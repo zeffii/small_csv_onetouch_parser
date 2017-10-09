@@ -26,7 +26,6 @@ template_tail = """\
 
 </details>"""
 
-
 def generate_string_days_from_WWYYYY(week_nr, year):
     d = str(year) + "-W" + str(week_nr)
     days = []
@@ -60,4 +59,4 @@ def compose_chart(week_nr, year, num_chart_entries=5):
 
 
 
-compose_chart(week_nr=39, year=2017, num_chart_entries=5)
+compose_chart(week_nr=40, year=2017, num_chart_entries=5)
