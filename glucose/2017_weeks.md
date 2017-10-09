@@ -1993,7 +1993,7 @@
 | 06:12 |  9.0 |        | veel gehoest                    |
 | 08:00 |   .  | 36 NR  |                                 |
 | 13:00 |   .  | 38 NR  |                                 |
-| 18:30 | 18.9 | 44 NR  | net iets gegeten                |
+| 18:30 | 18.9 | 44 NR  | iets gegeten voor de avondmaaltijd |
 | 22:23 | 12.6 | 68 TJ  | 6 NR                            |
 
 
