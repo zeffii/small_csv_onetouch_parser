@@ -20,7 +20,7 @@ template_body = """\
 |-------|------|--------|---------------------------------|"""
 
 template_day_graph_lines = """\
-| : | . |        |                                 |"""
+| : | . | {0} | {1}                                |"""
 
 template_tail = """\
 
@@ -36,7 +36,7 @@ def generate_string_days_from_WWYYYY(week_nr, year):
     return days
 
 
-def compose_chart(week_nr, year, num_chart_entries=5):
+def compose_chart(week_nr, year, num_chart_entries):
 
     if not week_nr and year:
         print('week and year number are necessary')
@@ -52,11 +52,16 @@ def compose_chart(week_nr, year, num_chart_entries=5):
     for day in days:
         tstr = template_body.format(YYYY=str(year) , MM_D_NAME=day.date().strftime("%b %d --- %a"))
         print(tstr)
-        for i in range(num_chart_entries):
-            print(template_day_graph_lines)
+        for content in num_chart_entries:
+            if not content:
+                print(template_day_graph_lines.format("     ", "    "))
+            elif len(content) == 2:
+                print(template_day_graph_lines.format(*content))
+            else:
+                print(template_day_graph_lines.format(content[0], "    "))
 
     print(template_tail)
 
 
 
-compose_chart(week_nr=40, year=2017, num_chart_entries=5)
+compose_chart(week_nr=41, year=2017, num_chart_entries=[["36 NR"], ["38 NR"], ["44 NR"],["68 TJ", "X NR"], None])
