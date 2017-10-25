@@ -64,4 +64,4 @@ def compose_chart(week_nr, year, num_chart_entries):
 
 
 
-compose_chart(week_nr=41, year=2017, num_chart_entries=[["36 NR"], ["38 NR"], ["44 NR"],["68 TJ", "X NR"], None])
+compose_chart(week_nr=43, year=2017, num_chart_entries=[["36 NR"], ["38 NR"], ["44 NR"],["68 TJ", "X NR"], None])
