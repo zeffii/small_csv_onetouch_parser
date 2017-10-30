@@ -2333,7 +2333,7 @@
 |-------|------|--------|---------------------------------|
 | 08:00 |  7.6 | 36 NR |                                  |
 | 11:34 | 11.3 | 38 NR |                                  |
-|   :   |   .  | 44 NR | veel gehoest                     |
+| 18:00 |   .  | 44 NR | veel gehoest                     |
 | 21:30 | 19.3 | 68 TJ | 18 NR  niet nuchter  grapes, cranberry juice   |
 |   :     |  . |       | volgende ochtend 14.6            |
 
